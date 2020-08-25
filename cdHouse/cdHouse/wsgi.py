@@ -1,5 +1,4 @@
-"""
-WSGI config for cdHouse project.
+"""WSGI config for cdHouse project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
